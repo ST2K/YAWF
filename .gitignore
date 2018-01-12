@@ -1,8 +1,10 @@
 # Custom
 bin/
+assets/imgs/
 init/
 caddy
 Caddyfile
+*.log
 [A-Z]*.txt
 
 # Byte-compiled / optimized / DLL files
