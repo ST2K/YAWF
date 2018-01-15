@@ -5,6 +5,7 @@ init/
 caddy
 Caddyfile
 *.log
+*.ini
 [A-Z]*.txt
 
 # Byte-compiled / optimized / DLL files

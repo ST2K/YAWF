@@ -36,7 +36,7 @@ Caddy comes with the following extra directives/middlewares:
 | [expires](https://github.com/epicagency/caddy-expires) | Evaluating            |
 | [filter](https://github.com/echocat/caddy-filter) | Evaluating            |
 | [git](https://github.com/abiosoft/caddy-git) | *Planning Deployment* |
-| [hugo]()                                 | Evaluating            |
+| [hugo](https://gohugo.io/)               | Evaluating            |
 | [ipfilter](https://github.com/pyed/ipfilter) | *Planning Deployment* |
 | [jwt](https://github.com/BTBurke/caddy-jwt) | Not Active            |
 | [locale](https://github.com/simia-tech/caddy-locale) | Not Active            |
