@@ -1,4 +1,4 @@
-#Yet Another Webfront for STV2k Researching
+# Yet Another Webfront for STV2k Researching
 > [PAMI Centre](http://pami.xmu.edu.cn), Xiamen University
 
 Actually there's no other webfront, so this repo should not be a 'Yet Another'.
